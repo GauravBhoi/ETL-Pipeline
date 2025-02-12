@@ -1,2 +1,1 @@
-# ETL-Pipeline
-Azure ETL project 
+# Azure-DE-Project-Resources
